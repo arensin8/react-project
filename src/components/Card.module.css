@@ -1,0 +1,23 @@
+.container img {
+  width: 310px;
+}
+
+.container {
+  margin: 10px;
+  background-color: #69d4cf;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 5px 5px 10px rgb(189,189,189);
+}
+ .container h3{
+    color: black;
+    margin: 30px 20px 20px;   
+}
+.container p{
+    background-color: rgb(236, 255, 241);
+    margin: 0 25px 20px;
+    width: fit-content;
+    border-radius: 5px;
+    padding: 5px;
+    color: rgb(14, 13, 13);
+}
